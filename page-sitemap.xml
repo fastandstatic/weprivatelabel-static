@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-05-07T20:14:02+00:00</lastmod>
+		<lastmod>2024-05-07T21:55:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/Group-10196.png</image:loc>
 		</image:image>
@@ -37,22 +37,34 @@
 			<image:loc>/wp-content/uploads/2024/05/Mask-Group-130.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Shopify-Logo.svg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/Group-9951.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/Excellence-CustServ-Award-2022-ShipMonk.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/Screenshot_13.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/inc-regionals-2023.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/Screenshot_12.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/109-technology-fast-500.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/Screenshot_11.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/b.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/Screenshot_10.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/softwareworld-top-rated-inventory-management-software.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/Screenshot_14.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Screenshot_15.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Screenshot_16.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Screenshot_17.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/ac_assets/responsive_testemonial_carousel/user.jpg</image:loc>
@@ -69,7 +81,7 @@
 	</url>
 	<url>
 		<loc>/pricing/</loc>
-		<lastmod>2024-05-07T19:37:45+00:00</lastmod>
+		<lastmod>2024-05-07T21:54:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/ac_assets/responsive_testemonial_carousel/user.jpg</image:loc>
 		</image:image>
